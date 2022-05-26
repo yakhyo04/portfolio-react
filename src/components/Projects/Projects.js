@@ -11,10 +11,10 @@ import bitsOfCode from "../../Assets/Projects/blog.png";
 import movies from '../../Assets/Projects/movies.jpg';
 import uzcrypto from '../../Assets/Projects/uzcrypto.jpg';
 import scoot from '../../Assets/Projects/scoot.jpg';
-import zoomy from '../../Assets/Projects/zoomy.jpg';
 import pomofocus from '../../Assets/Projects/pomofocus.jpg';
 import dashboard from '../../Assets/Projects/dashboard.jpg';
 import quiz from '../../Assets/Projects/quiz.jpg';
+import eduvi from '../../Assets/Projects/eduvi.jpg';
 
 function Projects() {
   return (
@@ -97,12 +97,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={zoomy}
+              imgPath={eduvi}
               isBlog={false}
-              title="Education Platform"
-              description="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form. There are many variations of passages of Lorem Ipsum available."
-              link="https://education-zoomy.netlify.app/"
-              code="https://github.com/yakhyo04/education"
+              title="Eduvi"
+              description="Eduvi is a Global training provider based across the UK that specialises in accredited and bespoke training courses. We crush the barriers togetting a degree."
+              link="https://eduvi.netlify.app/"
+              code="https://github.com/yakhyo04/eduvi2"
             />
           </Col>
 
