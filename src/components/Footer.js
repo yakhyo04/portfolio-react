@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/yahyoblog"
+                href="https://twitter.com/YahogiUz"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -53,7 +53,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/abdulkhakoff/"
+                href="https://www.instagram.com/yahyo_tech/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
