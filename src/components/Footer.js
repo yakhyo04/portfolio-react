@@ -24,9 +24,10 @@ function Footer() {
             <li className="social-icons">
               <a
                 href="https://github.com/yakhyo04"
-                style={{ color: "white" }}
+                // style={{ color: "white" }}
                 target="_blank" 
-                rel="noopener noreferrer"
+                rel="noreferrer"
+                className="icon-colour  home-social-icons"
               >
                 <AiFillGithub />
               </a>
@@ -34,9 +35,10 @@ function Footer() {
             <li className="social-icons">
               <a
                 href="https://twitter.com/YahogiUz"
-                style={{ color: "white" }}
+                // style={{ color: "white" }}
                 target="_blank" 
-                rel="noopener noreferrer"
+                rel="noreferrer"
+                className="icon-colour  home-social-icons"
               >
                 <AiOutlineTwitter />
               </a>
@@ -44,9 +46,10 @@ function Footer() {
             <li className="social-icons">
               <a
                 href="https://www.linkedin.com/in/yakhyo-abdulkhakov-998719200/"
-                style={{ color: "white" }}
+                // style={{ color: "white" }}
                 target="_blank" 
-                rel="noopener noreferrer"
+                rel="noreferrer"
+                className="icon-colour  home-social-icons"
               >
                 <FaLinkedinIn />
               </a>
@@ -54,9 +57,10 @@ function Footer() {
             <li className="social-icons">
               <a
                 href="https://www.instagram.com/yahyo_tech/"
-                style={{ color: "white" }}
+                // style={{ color: "white" }}
                 target="_blank" 
-                rel="noopener noreferrer"
+                rel="noreferrer"
+                className="icon-colour  home-social-icons"
               >
                 <AiFillInstagram />
               </a>
