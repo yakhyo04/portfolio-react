@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Yakhyo Abdulkhakov </span>
             from <span className="purple"> Tashkent, Uzbekistan.</span>
-            <br />I am a student at Academic Lyceum named After Nizami.
+            <br />I am a student at Amity University in Tashkent.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
